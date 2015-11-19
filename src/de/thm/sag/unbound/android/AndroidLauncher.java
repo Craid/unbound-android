@@ -8,6 +8,7 @@ import de.thm.sag.unbound.UnboundGame;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
+	//Test
 	protected void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
