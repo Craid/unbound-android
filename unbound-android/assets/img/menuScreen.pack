@@ -1,0 +1,75 @@
+
+menuScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ButtonBackgroundMenu
+  rotate: false
+  xy: 1, 491
+  size: 471, 419
+  orig: 471, 419
+  offset: 0, 0
+  index: -1
+Beenden
+  rotate: false
+  xy: 1, 393
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+BeendenHovered
+  rotate: false
+  xy: 474, 814
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+BeendenPressed
+  rotate: false
+  xy: 1, 295
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+Optionen
+  rotate: false
+  xy: 474, 716
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+OptionenHovered
+  rotate: false
+  xy: 1, 197
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+OptionenPressed
+  rotate: false
+  xy: 474, 618
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+SpielStarten
+  rotate: false
+  xy: 1, 99
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+SpielStartenHovered
+  rotate: false
+  xy: 474, 520
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
+SpielStartenPressed
+  rotate: false
+  xy: 1, 1
+  size: 435, 96
+  orig: 435, 96
+  offset: 0, 0
+  index: -1
