@@ -1,0 +1,33 @@
+
+Duck.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DuckDeposit
+  rotate: false
+  xy: 1, 1
+  size: 791, 684
+  orig: 791, 684
+  offset: 0, 0
+  index: -1
+DuckMainBase
+  rotate: false
+  xy: 1, 1
+  size: 791, 684
+  orig: 791, 684
+  offset: 0, 0
+  index: -1
+DuckSpawner
+  rotate: false
+  xy: 1, 1
+  size: 791, 684
+  orig: 791, 684
+  offset: 0, 0
+  index: -1
+DuckTower
+  rotate: false
+  xy: 1, 1
+  size: 791, 684
+  orig: 791, 684
+  offset: 0, 0
+  index: -1

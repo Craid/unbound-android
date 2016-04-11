@@ -1,0 +1,40 @@
+
+Prelate.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PrelatePawn
+  rotate: false
+  xy: 1, 21
+  size: 189, 171
+  orig: 189, 171
+  offset: 0, 0
+  index: -1
+PrelatesBoss
+  rotate: false
+  xy: 1, 21
+  size: 189, 171
+  orig: 189, 171
+  offset: 0, 0
+  index: -1
+PrelatesCommander
+  rotate: false
+  xy: 1, 21
+  size: 189, 171
+  orig: 189, 171
+  offset: 0, 0
+  index: -1
+PrelatesScavenger
+  rotate: false
+  xy: 1, 21
+  size: 189, 171
+  orig: 189, 171
+  offset: 0, 0
+  index: -1
+PrelateProjectile
+  rotate: false
+  xy: 1, 1
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
