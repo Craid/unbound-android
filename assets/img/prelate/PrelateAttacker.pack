@@ -3,42 +3,42 @@ PrelateAttacker.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-Boss
+PrelateBoss
   rotate: false
   xy: 1, 1
   size: 189, 171
   orig: 189, 171
   offset: 0, 0
   index: -1
-Commander
+PrelateCommander
   rotate: false
   xy: 1, 1
   size: 189, 171
   orig: 189, 171
   offset: 0, 0
   index: -1
-Pawn
+PrelatePawn
   rotate: false
   xy: 1, 1
   size: 189, 171
   orig: 189, 171
   offset: 0, 0
   index: -1
-Scavenger
+PrelateScavenger
   rotate: false
   xy: 1, 1
   size: 189, 171
   orig: 189, 171
   offset: 0, 0
   index: -1
-Spawner
+PrelateSpawner
   rotate: false
   xy: 192, 17
   size: 179, 155
   orig: 179, 155
   offset: 0, 0
   index: -1
-Projectile
+PrelateProjectile
   rotate: false
   xy: 373, 154
   size: 16, 18

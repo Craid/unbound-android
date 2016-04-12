@@ -3,42 +3,42 @@ DuckDefender.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-Deposit
+DuckDeposit
   rotate: false
   xy: 1, 25
   size: 179, 155
   orig: 179, 155
   offset: 0, 0
   index: -1
-MainBase
+DuckMainBase
   rotate: false
   xy: 1, 25
   size: 179, 155
   orig: 179, 155
   offset: 0, 0
   index: -1
-Tower
+DuckTower
   rotate: false
   xy: 1, 25
   size: 179, 155
   orig: 179, 155
   offset: 0, 0
   index: -1
-Collector
+DuckCollector
   rotate: false
   xy: 182, 1
   size: 90, 179
   orig: 90, 179
   offset: 0, 0
   index: -1
-Player
+DuckPlayer
   rotate: false
   xy: 182, 1
   size: 90, 179
   orig: 90, 179
   offset: 0, 0
   index: -1
-Blubber
+DuckProjectile
   rotate: false
   xy: 1, 1
   size: 22, 22
