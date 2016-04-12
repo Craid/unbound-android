@@ -1,0 +1,47 @@
+
+DuckDefender.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Deposit
+  rotate: false
+  xy: 1, 25
+  size: 179, 155
+  orig: 179, 155
+  offset: 0, 0
+  index: -1
+MainBase
+  rotate: false
+  xy: 1, 25
+  size: 179, 155
+  orig: 179, 155
+  offset: 0, 0
+  index: -1
+Tower
+  rotate: false
+  xy: 1, 25
+  size: 179, 155
+  orig: 179, 155
+  offset: 0, 0
+  index: -1
+Collector
+  rotate: false
+  xy: 182, 1
+  size: 90, 179
+  orig: 90, 179
+  offset: 0, 0
+  index: -1
+Player
+  rotate: false
+  xy: 182, 1
+  size: 90, 179
+  orig: 90, 179
+  offset: 0, 0
+  index: -1
+Blubber
+  rotate: false
+  xy: 1, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
