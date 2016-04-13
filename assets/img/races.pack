@@ -1,0 +1,159 @@
+
+races.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DuckSpawner
+  rotate: false
+  xy: 1, 12
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+PrelateSpawner
+  rotate: false
+  xy: 363, 12
+  size: 332, 360
+  orig: 332, 360
+  offset: 0, 0
+  index: -1
+DuckMainBase
+  rotate: false
+  xy: 697, 12
+  size: 317, 360
+  orig: 317, 360
+  offset: 0, 0
+  index: -1
+PrelateMainBase
+  rotate: false
+  xy: 1016, 63
+  size: 360, 309
+  orig: 360, 309
+  offset: 0, 0
+  index: -1
+DuckTower
+  rotate: false
+  xy: 1378, 192
+  size: 178, 180
+  orig: 178, 180
+  offset: 0, 0
+  index: -1
+PrelateTower
+  rotate: false
+  xy: 1378, 192
+  size: 178, 180
+  orig: 178, 180
+  offset: 0, 0
+  index: -1
+PrelatePlayer
+  rotate: false
+  xy: 1558, 192
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+DuckDeposit
+  rotate: false
+  xy: 1722, 192
+  size: 158, 180
+  orig: 158, 180
+  offset: 0, 0
+  index: -1
+DuckBoss
+  rotate: false
+  xy: 1882, 217
+  size: 180, 155
+  orig: 180, 155
+  offset: 0, 0
+  index: -1
+DuckScavenger
+  rotate: false
+  xy: 2064, 217
+  size: 180, 155
+  orig: 180, 155
+  offset: 0, 0
+  index: -1
+DuckCollector
+  rotate: false
+  xy: 1378, 52
+  size: 180, 138
+  orig: 180, 138
+  offset: 0, 0
+  index: -1
+DuckCommander
+  rotate: false
+  xy: 1560, 40
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1
+PrelateDeposit
+  rotate: false
+  xy: 1742, 10
+  size: 136, 180
+  orig: 136, 180
+  offset: 0, 0
+  index: -1
+DuckPawn
+  rotate: false
+  xy: 1882, 93
+  size: 180, 122
+  orig: 180, 122
+  offset: 0, 0
+  index: -1
+PrelateBoss
+  rotate: false
+  xy: 2064, 78
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+PrelateCollector
+  rotate: false
+  xy: 2064, 78
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+PrelateCommander
+  rotate: false
+  xy: 2064, 78
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+PrelatePawn
+  rotate: false
+  xy: 2064, 78
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+PrelateScavenger
+  rotate: false
+  xy: 2064, 78
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+DuckPlayer
+  rotate: false
+  xy: 1880, 1
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+DuckProjectile
+  rotate: false
+  xy: 1016, 31
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PrelateProjectile
+  rotate: false
+  xy: 1048, 34
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
